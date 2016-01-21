@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiscreen_Progressbar", "Multiscreen_Progressbar\Multiscreen_Progressbar.csproj", "{FECAA879-8627-4A8D-9668-2A1032D44573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FECAA879-8627-4A8D-9668-2A1032D44573}.Debug|x86.ActiveCfg = Debug|x86
+		{FECAA879-8627-4A8D-9668-2A1032D44573}.Debug|x86.Build.0 = Debug|x86
+		{FECAA879-8627-4A8D-9668-2A1032D44573}.Release|x86.ActiveCfg = Release|x86
+		{FECAA879-8627-4A8D-9668-2A1032D44573}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

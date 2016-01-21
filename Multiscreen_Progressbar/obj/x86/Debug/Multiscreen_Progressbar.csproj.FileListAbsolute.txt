@@ -1,0 +1,61 @@
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\12012015\Multiscreen_Progressbar\Multiscreen_Progressbar\bin\Debug\Multiscreen_Progressbar.exe
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\12012015\Multiscreen_Progressbar\Multiscreen_Progressbar\bin\Debug\Multiscreen_Progressbar.pdb
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\12012015\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\12012015\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\MainWindow.baml
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\12012015\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\Popup.baml
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\12012015\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\MainWindow.g.cs
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\12012015\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\Popup.g.cs
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\12012015\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\App.g.cs
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\12012015\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar_MarkupCompile.cache
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\12012015\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar.g.resources
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\12012015\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar.Properties.Resources.resources
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\12012015\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\12012015\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\12012015\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar.exe
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\12012015\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar.pdb
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\Demos\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar.exe
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\Demos\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar.pdb
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\Demos\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\bin\Debug\Multiscreen_Progressbar.exe
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\Demos\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\bin\Debug\Multiscreen_Progressbar.pdb
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\Demos\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\Demos\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\MainWindow.baml
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\Demos\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\Popup.baml
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\Demos\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\MainWindow.g.cs
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\Demos\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\Popup.g.cs
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\Demos\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\App.g.cs
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\Demos\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar_MarkupCompile.cache
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\Demos\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar.g.resources
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\Demos\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar.Properties.Resources.resources
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\Demos\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\Demos\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dharmendra Prajapati\Desktop\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar.exe
+C:\Users\Dharmendra Prajapati\Desktop\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar.pdb
+C:\Users\Dharmendra Prajapati\Desktop\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\bin\Debug\Multiscreen_Progressbar.exe
+C:\Users\Dharmendra Prajapati\Desktop\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\bin\Debug\Multiscreen_Progressbar.pdb
+C:\Users\Dharmendra Prajapati\Desktop\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dharmendra Prajapati\Desktop\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\MainWindow.baml
+C:\Users\Dharmendra Prajapati\Desktop\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\Popup.baml
+C:\Users\Dharmendra Prajapati\Desktop\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dharmendra Prajapati\Desktop\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\Popup.g.cs
+C:\Users\Dharmendra Prajapati\Desktop\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\App.g.cs
+C:\Users\Dharmendra Prajapati\Desktop\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar_MarkupCompile.cache
+C:\Users\Dharmendra Prajapati\Desktop\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar.g.resources
+C:\Users\Dharmendra Prajapati\Desktop\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar.Properties.Resources.resources
+C:\Users\Dharmendra Prajapati\Desktop\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dharmendra Prajapati\Desktop\Multiscreen_Progressbar_12012015\Multiscreen_Progressbar\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Employee Details\WebScrapper\Capture_Data_CS\Progress bar in Wpf Backgroundworker\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar.exe
+D:\Employee Details\WebScrapper\Capture_Data_CS\Progress bar in Wpf Backgroundworker\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar.pdb
+C:\Cooke\prog\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar.exe
+C:\Cooke\prog\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar.pdb
+C:\Cooke\prog\Multiscreen_Progressbar\Multiscreen_Progressbar\bin\Debug\Multiscreen_Progressbar.exe
+C:\Cooke\prog\Multiscreen_Progressbar\Multiscreen_Progressbar\bin\Debug\Multiscreen_Progressbar.pdb
+C:\Cooke\prog\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar.csprojResolveAssemblyReference.cache
+C:\Cooke\prog\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\MainWindow.baml
+C:\Cooke\prog\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\Popup.baml
+C:\Cooke\prog\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\MainWindow.g.cs
+C:\Cooke\prog\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\Popup.g.cs
+C:\Cooke\prog\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\App.g.cs
+C:\Cooke\prog\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar_MarkupCompile.cache
+C:\Cooke\prog\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar.g.resources
+C:\Cooke\prog\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar.Properties.Resources.resources
+C:\Cooke\prog\Multiscreen_Progressbar\Multiscreen_Progressbar\obj\x86\Debug\Multiscreen_Progressbar.csproj.GenerateResource.Cache
